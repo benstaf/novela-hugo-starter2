@@ -1,6 +1,6 @@
 +++
 authors = []
-date = ""
+date = 2020-02-12T23:00:00Z
 excerpt = "Molecule generation is a hot topic in AI for drug discovery. In a previous blog post, I exposed how some methods had issues with generating diversity. Since then, new papers appeared to address this problem (sometimes without citing my paper raising it)."
 hero = ""
 timeToRead = 5
